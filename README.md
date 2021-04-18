@@ -17,5 +17,5 @@
 }
 
 
-Draft and codes
+# codes Available on this reposiitory
 ![Architecture_covid19](https://user-images.githubusercontent.com/31511385/115154019-b21da280-a070-11eb-93d6-6d77c969201a.png)
